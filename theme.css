@@ -1312,6 +1312,9 @@ a.subbarlink.undefined{
 .sr-bar a,#header-bottom-right .user a{
     color:#fff!important
 }
+.user {
+    color: #fff;
+}
 
 .userkarma {
     cursor: help;
