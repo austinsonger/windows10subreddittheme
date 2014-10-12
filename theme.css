@@ -57,7 +57,7 @@ body{
 #sr-header-area .flat-list li{
     padding-right:4px;
     margin-left:4px;
-    border-right:1px Solid #777
+    border-right:1px Solid #FFF
 }
 
 #sr-header-area .flat-list li:last-child{
@@ -1212,7 +1212,7 @@ div.titlebox .subscribers span.number:after{
 
 .thing,#header-bottom-left,#header-bottom-right,#sr-header-area,#sr-bar,#RESShortcuts,#sr-header-area,#RESStaticShortcuts a,#srLeftContainer,#RESStaticShortcuts,#RESShortcuts,#srDropdown{
     background:rgb(246,246,246);
-    background-color:rgb(246,246,246)!important;
+    background-color:transparent !important;
     background-image:none
 }
 
