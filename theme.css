@@ -251,8 +251,9 @@ header-bottom-right .user{
 }
 
 #header-bottom-right a{
-    color:#444444;
+    color:#fff;
     padding:4px 2px
+    text-decoration: underline;
 }
 
 #header-bottom-right .separator{
